@@ -1,0 +1,16 @@
+
+.container{
+  display: 'flex';
+  margin-left: 100px;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -1000px;
+  width: 125px;
+  height: 330px;
+  border: 3px solid rgba(209, 142, 17, 0.856);
+  background-color: rgb(36, 33, 33);
+  border-radius: 25px;
+  position: relative;
+  padding-left: 20px;
+  padding-top: 10px;
+}
