@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Traffic-light-project/static/css/main.07676334.css",
+    "main.js": "/Traffic-light-project/static/js/main.28820d44.js",
+    "static/js/845.fcd0d55d.chunk.js": "/Traffic-light-project/static/js/845.fcd0d55d.chunk.js",
+    "static/js/787.b6163de8.chunk.js": "/Traffic-light-project/static/js/787.b6163de8.chunk.js",
+    "static/media/SquidGameBG.mp4": "/Traffic-light-project/static/media/SquidGameBG.e37cd007e4babd69a5e9.mp4",
+    "static/media/robot-doll.mp3": "/Traffic-light-project/static/media/robot-doll.94fd810ce5e93c93005c.mp3",
+    "static/media/green-light.mp3": "/Traffic-light-project/static/media/green-light.4cc89b81386e7e26b8d1.mp3",
+    "static/media/red-light.mp3": "/Traffic-light-project/static/media/red-light.55126eec35b161005bcd.mp3",
+    "index.html": "/Traffic-light-project/index.html",
+    "main.07676334.css.map": "/Traffic-light-project/static/css/main.07676334.css.map",
+    "main.28820d44.js.map": "/Traffic-light-project/static/js/main.28820d44.js.map",
+    "845.fcd0d55d.chunk.js.map": "/Traffic-light-project/static/js/845.fcd0d55d.chunk.js.map",
+    "787.b6163de8.chunk.js.map": "/Traffic-light-project/static/js/787.b6163de8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07676334.css",
+    "static/js/main.28820d44.js"
+  ]
+}
