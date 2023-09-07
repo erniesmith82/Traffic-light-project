@@ -1,10 +1,10 @@
 
 .container{
   display: 'flex';
-  margin-left: 200px;
+  margin-left: 300px;
   align-items: center;
   flex-direction: column;
-  margin-top: -700px;
+  margin-top: -1100px;
   width: 125px;
   height: 330px;
   border: 3px solid rgba(209, 142, 17, 0.856);
