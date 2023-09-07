@@ -26,7 +26,7 @@ function App() {
   
   
   return (
-    
+   <div className='project'>
     <div className="video"><video  controls
     muted
     autoPlay={"autoplay"}
@@ -38,13 +38,16 @@ function App() {
       height: "100%"
      }} >
       <source src={SquidGame} type="video/mp4"/></video>
-    <div className="container">
+    <div className="traffic-container">
+    <div className='traffic'>
     <Lights
       lit={lit}
       setLit={setLit}
     />
+   </div>   
   </div>
   </div>
+  </div> 
 );
 };
 
